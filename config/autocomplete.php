@@ -62,6 +62,8 @@ class MY_Controller extends CI_Controller {};
 */
 class CI_Model {};
 
+class MY_Model extends CI_Model {};
+
 /* End of file autocomplete.php */
 /* Location: ./application/config/autocomplete.php */
 ?>
